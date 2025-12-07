@@ -25,7 +25,10 @@ Thread handling per client
 This project demonstrates knowledge of sockets, networking, threads, and inter-process 
 communication.
 
-*OUTPUT*:
+*OUTPUT*:<img width="970" height="87" alt="Screenshot 2025-12-06 164933" src="https://github.com/user-attachments/assets/57c764e8-7bff-45ab-b5b7-cd22ff523393" />
+<img width="940" height="78" alt="Screenshot 2025-12-06 171535" src="https://github.com/user-attachments/assets/513c1b1b-3f4c-442e-a7d0-ff30318bdc09" />
+
+
 
 
 
